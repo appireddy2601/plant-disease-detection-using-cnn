@@ -17,7 +17,7 @@ This repository contains a project focused on detecting plant diseases using Con
 Plant diseases can significantly impact agricultural productivity. Early detection and classification of these diseases can help in timely intervention and treatment, thereby reducing crop loss. This project leverages CNNs to classify images of plant leaves into different disease categories.
 
 ## Dataset
-The dataset used for training and testing the model consists of images of healthy and diseased plant leaves. The dataset is publicly available and contains images labeled with various disease categories. You can download the dataset from [this link](#https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
+The dataset used for training and testing the model consists of images of healthy and diseased plant leaves. The dataset is publicly available and contains images labeled with various disease categories. You can download the dataset from [this link](#https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset#).
 
 ## Model Architecture
 The CNN model used in this project is designed to effectively capture the features of plant leaves and classify them accurately. The architecture includes multiple convolutional layers, pooling layers, and fully connected layers. Below is a brief overview of the architecture:
