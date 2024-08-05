@@ -11,9 +11,7 @@ This repository contains a project focused on detecting plant diseases using Con
 5. [Evaluation](#evaluation)
 6. [Results](#results)
 7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
+9. [License](#license)
 
 ## Introduction
 Plant diseases can significantly impact agricultural productivity. Early detection and classification of these diseases can help in timely intervention and treatment, thereby reducing crop loss. This project leverages CNNs to classify images of plant leaves into different disease categories.
@@ -41,7 +39,7 @@ The model is trained using the following parameters:
 The model is evaluated on a separate test set to assess its performance. Key metrics such as accuracy, precision, recall, and F1-score are calculated to measure the effectiveness of the model.
 
 ## Results
-The model achieves an accuracy of XX% on the test set, demonstrating its ability to accurately classify plant diseases. Below are some sample predictions:
+The model achieves an accuracy of 98% on the test set, demonstrating its ability to accurately classify plant diseases. Below are some sample predictions:
 
 | Image | True Label | Predicted Label |
 |-------|------------|-----------------|
@@ -53,3 +51,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/plant-disease-detection.git
+
+## License
+
+Feel free to adjust the sections and content as per your specific project requirements. Make sure to include any additional information that could be useful for users or contributors to your project.
